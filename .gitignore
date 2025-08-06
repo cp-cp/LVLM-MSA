@@ -1,0 +1,5 @@
+!data/
+data/*
+results
+.DS_Store
+ConceptNet_VAD_dict.json
