@@ -1,4 +1,4 @@
-# LVLM-MSA
+# [CIKM 2025] LVLM-MSA: Can Large Vision-Language Models Understand Multimodal Sarcasm?
 
 [![arxiv](https://img.shields.io/badge/arXiv-2508.03654-b31b1b.svg)](https://arxiv.org/abs/2508.03654)
 
